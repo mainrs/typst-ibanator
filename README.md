@@ -11,3 +11,9 @@
 ```
 
 <img src="./docs/example.png" width=350px>
+
+To disable validation, set the `validate` flag to false:
+
+```typ
+#iban("DE89370400440532013000", validate: false)
+```
