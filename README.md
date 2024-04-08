@@ -1,6 +1,6 @@
 # typst-iban-formatter
 
-> Format IBAN numbers according to ISO 13616-1.
+> Validate and format IBAN numbers according to ISO 13616-1.
 
 ## Usage
 
